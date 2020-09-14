@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CYUSB3014-BZXI
+D FX3: SuperSpeed USB Controller, BGA-121
+F http://www.cypress.com/file/140296/download
+$ENDCMP
+#
+#End Doc Library

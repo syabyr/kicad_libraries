@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AXE640124
+D Board to Board & Mezzanine Connectors Header 0.4mm,40-pin w/o positioning boss
+K
+F https://www.panasonic-electric-works.com/pew/eu/downloads/ds_a4s_en.pdf
+$ENDCMP
+#
+#End Doc Library

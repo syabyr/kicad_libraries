@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EP4CE6E22C8N
+D FPGA Cyclone IV 6272 Cells TQFP144 EP4CE6E22C8N, FPGA Cyclone IV E 6272 Cells, 270kbit, 392 Blocks, 1.15  1.25 V 144-Pin EQFP
+K
+F https://www.altera.com/en_US/pdfs/literature/hb/cyclone-iv/cyiv-51001.pdf
+$ENDCMP
+#
+#End Doc Library
